@@ -1,5 +1,6 @@
-###Build Status
-https://travis-ci.org/eswann/q2blog_api.svg?branch=master
+## Q2 Blog API
+
+[![Build Status](https://travis-ci.org/eswann/q2blog_api.svg?branch=master)](https://travis-ci.org/eswann/q2blog_api)
 
 ###On a Mac, after you clone:
 
