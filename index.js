@@ -7,6 +7,7 @@ const Boom = require('boom');  // Error reporting
 // Load our config file.
 // Make sure you have created this file based on the contents
 // of config.json.example.
+//Just adding a comment here to force a push
 var config = require('./config.json');
 
 // Print some debug statements so we can see which database
